@@ -32,11 +32,11 @@ is $$\begin{eqnarray}
 You can download the package
 
 - [Version
-  0.0.1](https://gitlab.tech.orange/rlsoftwarenet/penffr/-/archive/main/penffr-main.zip)
+  0.0.1](https://github.com/Orange-OpenSource/penffr/archive/refs/tags/v0.0.1.tar.gz)
 
-Or clone from Gitlab :
+Or clone from GitHub :
 
-    $ git clone https://gitlab.tech.orange/rlsoftwarenet/penffr.git
+    $ git clone https://github.com/Orange-OpenSource/penffr.git
 
 ## Cite
 
